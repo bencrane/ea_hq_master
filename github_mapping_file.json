@@ -1,1 +1,470 @@
-
+[
+  {
+    "folder": ".",
+    "path": ".DS_Store",
+    "github_url": "https://github.com/bencrane/ea_hq/blob/main/.DS_Store",
+    "raw_url": "https://raw.githubusercontent.com/bencrane/ea_hq/main/.DS_Store"
+  },
+  {
+    "folder": ".",
+    "path": "README.md",
+    "github_url": "https://github.com/bencrane/ea_hq/blob/main/README.md",
+    "raw_url": "https://raw.githubusercontent.com/bencrane/ea_hq/main/README.md"
+  },
+  {
+    "folder": "admin",
+    "path": "admin/infer_repo_metadata_prompt.md",
+    "github_url": "https://github.com/bencrane/ea_hq/blob/main/admin/infer_repo_metadata_prompt.md",
+    "raw_url": "https://raw.githubusercontent.com/bencrane/ea_hq/main/admin/infer_repo_metadata_prompt.md"
+  },
+  {
+    "folder": "admin",
+    "path": "admin/prepare_payload.js",
+    "github_url": "https://github.com/bencrane/ea_hq/blob/main/admin/prepare_payload.js",
+    "raw_url": "https://raw.githubusercontent.com/bencrane/ea_hq/main/admin/prepare_payload.js"
+  },
+  {
+    "folder": "admin",
+    "path": "admin/prompt_config.json",
+    "github_url": "https://github.com/bencrane/ea_hq/blob/main/admin/prompt_config.json",
+    "raw_url": "https://raw.githubusercontent.com/bencrane/ea_hq/main/admin/prompt_config.json"
+  },
+  {
+    "folder": "canceled-booking",
+    "path": "canceled-booking/booking-id-extraction/booking_id_extractor.md",
+    "github_url": "https://github.com/bencrane/ea_hq/blob/main/canceled-booking/booking-id-extraction/booking_id_extractor.md",
+    "raw_url": "https://raw.githubusercontent.com/bencrane/ea_hq/main/canceled-booking/booking-id-extraction/booking_id_extractor.md"
+  },
+  {
+    "folder": "canceled-booking",
+    "path": "canceled-booking/booking-id-extraction/prepare_payload.js",
+    "github_url": "https://github.com/bencrane/ea_hq/blob/main/canceled-booking/booking-id-extraction/prepare_payload.js",
+    "raw_url": "https://raw.githubusercontent.com/bencrane/ea_hq/main/canceled-booking/booking-id-extraction/prepare_payload.js"
+  },
+  {
+    "folder": "canceled-booking",
+    "path": "canceled-booking/booking-id-extraction/prompt_config.json",
+    "github_url": "https://github.com/bencrane/ea_hq/blob/main/canceled-booking/booking-id-extraction/prompt_config.json",
+    "raw_url": "https://raw.githubusercontent.com/bencrane/ea_hq/main/canceled-booking/booking-id-extraction/prompt_config.json"
+  },
+  {
+    "folder": "combos",
+    "path": "combos/.DS_Store",
+    "github_url": "https://github.com/bencrane/ea_hq/blob/main/combos/.DS_Store",
+    "raw_url": "https://raw.githubusercontent.com/bencrane/ea_hq/main/combos/.DS_Store"
+  },
+  {
+    "folder": "combos",
+    "path": "combos/01_attended_bad_fit_no/example.txt",
+    "github_url": "https://github.com/bencrane/ea_hq/blob/main/combos/01_attended_bad_fit_no/example.txt",
+    "raw_url": "https://raw.githubusercontent.com/bencrane/ea_hq/main/combos/01_attended_bad_fit_no/example.txt"
+  },
+  {
+    "folder": "combos",
+    "path": "combos/01_attended_bad_fit_no/template.json",
+    "github_url": "https://github.com/bencrane/ea_hq/blob/main/combos/01_attended_bad_fit_no/template.json",
+    "raw_url": "https://raw.githubusercontent.com/bencrane/ea_hq/main/combos/01_attended_bad_fit_no/template.json"
+  },
+  {
+    "folder": "combos",
+    "path": "combos/01_attended_bad_fit_no/transform.js",
+    "github_url": "https://github.com/bencrane/ea_hq/blob/main/combos/01_attended_bad_fit_no/transform.js",
+    "raw_url": "https://raw.githubusercontent.com/bencrane/ea_hq/main/combos/01_attended_bad_fit_no/transform.js"
+  },
+  {
+    "folder": "combos",
+    "path": "combos/02_attended_bad_fit_yes/example.txt",
+    "github_url": "https://github.com/bencrane/ea_hq/blob/main/combos/02_attended_bad_fit_yes/example.txt",
+    "raw_url": "https://raw.githubusercontent.com/bencrane/ea_hq/main/combos/02_attended_bad_fit_yes/example.txt"
+  },
+  {
+    "folder": "combos",
+    "path": "combos/02_attended_bad_fit_yes/template.json",
+    "github_url": "https://github.com/bencrane/ea_hq/blob/main/combos/02_attended_bad_fit_yes/template.json",
+    "raw_url": "https://raw.githubusercontent.com/bencrane/ea_hq/main/combos/02_attended_bad_fit_yes/template.json"
+  },
+  {
+    "folder": "combos",
+    "path": "combos/02_attended_bad_fit_yes/transform.js",
+    "github_url": "https://github.com/bencrane/ea_hq/blob/main/combos/02_attended_bad_fit_yes/transform.js",
+    "raw_url": "https://raw.githubusercontent.com/bencrane/ea_hq/main/combos/02_attended_bad_fit_yes/transform.js"
+  },
+  {
+    "folder": "combos",
+    "path": "combos/03_attended_high_priority_no/example.txt",
+    "github_url": "https://github.com/bencrane/ea_hq/blob/main/combos/03_attended_high_priority_no/example.txt",
+    "raw_url": "https://raw.githubusercontent.com/bencrane/ea_hq/main/combos/03_attended_high_priority_no/example.txt"
+  },
+  {
+    "folder": "combos",
+    "path": "combos/03_attended_high_priority_no/template.json",
+    "github_url": "https://github.com/bencrane/ea_hq/blob/main/combos/03_attended_high_priority_no/template.json",
+    "raw_url": "https://raw.githubusercontent.com/bencrane/ea_hq/main/combos/03_attended_high_priority_no/template.json"
+  },
+  {
+    "folder": "combos",
+    "path": "combos/03_attended_high_priority_no/transform.js",
+    "github_url": "https://github.com/bencrane/ea_hq/blob/main/combos/03_attended_high_priority_no/transform.js",
+    "raw_url": "https://raw.githubusercontent.com/bencrane/ea_hq/main/combos/03_attended_high_priority_no/transform.js"
+  },
+  {
+    "folder": "combos",
+    "path": "combos/04_attended_high_priority_yes/example.txt",
+    "github_url": "https://github.com/bencrane/ea_hq/blob/main/combos/04_attended_high_priority_yes/example.txt",
+    "raw_url": "https://raw.githubusercontent.com/bencrane/ea_hq/main/combos/04_attended_high_priority_yes/example.txt"
+  },
+  {
+    "folder": "combos",
+    "path": "combos/04_attended_high_priority_yes/template.json",
+    "github_url": "https://github.com/bencrane/ea_hq/blob/main/combos/04_attended_high_priority_yes/template.json",
+    "raw_url": "https://raw.githubusercontent.com/bencrane/ea_hq/main/combos/04_attended_high_priority_yes/template.json"
+  },
+  {
+    "folder": "combos",
+    "path": "combos/04_attended_high_priority_yes/transform.js",
+    "github_url": "https://github.com/bencrane/ea_hq/blob/main/combos/04_attended_high_priority_yes/transform.js",
+    "raw_url": "https://raw.githubusercontent.com/bencrane/ea_hq/main/combos/04_attended_high_priority_yes/transform.js"
+  },
+  {
+    "folder": "combos",
+    "path": "combos/05_attended_kill_no/example.txt",
+    "github_url": "https://github.com/bencrane/ea_hq/blob/main/combos/05_attended_kill_no/example.txt",
+    "raw_url": "https://raw.githubusercontent.com/bencrane/ea_hq/main/combos/05_attended_kill_no/example.txt"
+  },
+  {
+    "folder": "combos",
+    "path": "combos/05_attended_kill_no/template.json",
+    "github_url": "https://github.com/bencrane/ea_hq/blob/main/combos/05_attended_kill_no/template.json",
+    "raw_url": "https://raw.githubusercontent.com/bencrane/ea_hq/main/combos/05_attended_kill_no/template.json"
+  },
+  {
+    "folder": "combos",
+    "path": "combos/05_attended_kill_no/transform.js",
+    "github_url": "https://github.com/bencrane/ea_hq/blob/main/combos/05_attended_kill_no/transform.js",
+    "raw_url": "https://raw.githubusercontent.com/bencrane/ea_hq/main/combos/05_attended_kill_no/transform.js"
+  },
+  {
+    "folder": "combos",
+    "path": "combos/06_attended_kill_yes/template.json",
+    "github_url": "https://github.com/bencrane/ea_hq/blob/main/combos/06_attended_kill_yes/template.json",
+    "raw_url": "https://raw.githubusercontent.com/bencrane/ea_hq/main/combos/06_attended_kill_yes/template.json"
+  },
+  {
+    "folder": "combos",
+    "path": "combos/06_attended_kill_yes/transform.js",
+    "github_url": "https://github.com/bencrane/ea_hq/blob/main/combos/06_attended_kill_yes/transform.js",
+    "raw_url": "https://raw.githubusercontent.com/bencrane/ea_hq/main/combos/06_attended_kill_yes/transform.js"
+  },
+  {
+    "folder": "combos",
+    "path": "combos/07_attended_low_priority_no/example.txt",
+    "github_url": "https://github.com/bencrane/ea_hq/blob/main/combos/07_attended_low_priority_no/example.txt",
+    "raw_url": "https://raw.githubusercontent.com/bencrane/ea_hq/main/combos/07_attended_low_priority_no/example.txt"
+  },
+  {
+    "folder": "combos",
+    "path": "combos/07_attended_low_priority_no/template.json",
+    "github_url": "https://github.com/bencrane/ea_hq/blob/main/combos/07_attended_low_priority_no/template.json",
+    "raw_url": "https://raw.githubusercontent.com/bencrane/ea_hq/main/combos/07_attended_low_priority_no/template.json"
+  },
+  {
+    "folder": "combos",
+    "path": "combos/07_attended_low_priority_no/transform.js",
+    "github_url": "https://github.com/bencrane/ea_hq/blob/main/combos/07_attended_low_priority_no/transform.js",
+    "raw_url": "https://raw.githubusercontent.com/bencrane/ea_hq/main/combos/07_attended_low_priority_no/transform.js"
+  },
+  {
+    "folder": "combos",
+    "path": "combos/08_attended_low_priority_yes/example.txt",
+    "github_url": "https://github.com/bencrane/ea_hq/blob/main/combos/08_attended_low_priority_yes/example.txt",
+    "raw_url": "https://raw.githubusercontent.com/bencrane/ea_hq/main/combos/08_attended_low_priority_yes/example.txt"
+  },
+  {
+    "folder": "combos",
+    "path": "combos/08_attended_low_priority_yes/template.json",
+    "github_url": "https://github.com/bencrane/ea_hq/blob/main/combos/08_attended_low_priority_yes/template.json",
+    "raw_url": "https://raw.githubusercontent.com/bencrane/ea_hq/main/combos/08_attended_low_priority_yes/template.json"
+  },
+  {
+    "folder": "combos",
+    "path": "combos/08_attended_low_priority_yes/transform.js",
+    "github_url": "https://github.com/bencrane/ea_hq/blob/main/combos/08_attended_low_priority_yes/transform.js",
+    "raw_url": "https://raw.githubusercontent.com/bencrane/ea_hq/main/combos/08_attended_low_priority_yes/transform.js"
+  },
+  {
+    "folder": "combos",
+    "path": "combos/09_attended_medium_priority_no/example.txt",
+    "github_url": "https://github.com/bencrane/ea_hq/blob/main/combos/09_attended_medium_priority_no/example.txt",
+    "raw_url": "https://raw.githubusercontent.com/bencrane/ea_hq/main/combos/09_attended_medium_priority_no/example.txt"
+  },
+  {
+    "folder": "combos",
+    "path": "combos/09_attended_medium_priority_no/template.json",
+    "github_url": "https://github.com/bencrane/ea_hq/blob/main/combos/09_attended_medium_priority_no/template.json",
+    "raw_url": "https://raw.githubusercontent.com/bencrane/ea_hq/main/combos/09_attended_medium_priority_no/template.json"
+  },
+  {
+    "folder": "combos",
+    "path": "combos/09_attended_medium_priority_no/transform.js",
+    "github_url": "https://github.com/bencrane/ea_hq/blob/main/combos/09_attended_medium_priority_no/transform.js",
+    "raw_url": "https://raw.githubusercontent.com/bencrane/ea_hq/main/combos/09_attended_medium_priority_no/transform.js"
+  },
+  {
+    "folder": "combos",
+    "path": "combos/10_attended_medium_priority_yes/example.txt",
+    "github_url": "https://github.com/bencrane/ea_hq/blob/main/combos/10_attended_medium_priority_yes/example.txt",
+    "raw_url": "https://raw.githubusercontent.com/bencrane/ea_hq/main/combos/10_attended_medium_priority_yes/example.txt"
+  },
+  {
+    "folder": "combos",
+    "path": "combos/10_attended_medium_priority_yes/template.json",
+    "github_url": "https://github.com/bencrane/ea_hq/blob/main/combos/10_attended_medium_priority_yes/template.json",
+    "raw_url": "https://raw.githubusercontent.com/bencrane/ea_hq/main/combos/10_attended_medium_priority_yes/template.json"
+  },
+  {
+    "folder": "combos",
+    "path": "combos/10_attended_medium_priority_yes/transform.js",
+    "github_url": "https://github.com/bencrane/ea_hq/blob/main/combos/10_attended_medium_priority_yes/transform.js",
+    "raw_url": "https://raw.githubusercontent.com/bencrane/ea_hq/main/combos/10_attended_medium_priority_yes/transform.js"
+  },
+  {
+    "folder": "combos",
+    "path": "combos/11_no_show_bad_fit_no/example.txt",
+    "github_url": "https://github.com/bencrane/ea_hq/blob/main/combos/11_no_show_bad_fit_no/example.txt",
+    "raw_url": "https://raw.githubusercontent.com/bencrane/ea_hq/main/combos/11_no_show_bad_fit_no/example.txt"
+  },
+  {
+    "folder": "combos",
+    "path": "combos/11_no_show_bad_fit_no/template.json",
+    "github_url": "https://github.com/bencrane/ea_hq/blob/main/combos/11_no_show_bad_fit_no/template.json",
+    "raw_url": "https://raw.githubusercontent.com/bencrane/ea_hq/main/combos/11_no_show_bad_fit_no/template.json"
+  },
+  {
+    "folder": "combos",
+    "path": "combos/11_no_show_bad_fit_no/transform.js",
+    "github_url": "https://github.com/bencrane/ea_hq/blob/main/combos/11_no_show_bad_fit_no/transform.js",
+    "raw_url": "https://raw.githubusercontent.com/bencrane/ea_hq/main/combos/11_no_show_bad_fit_no/transform.js"
+  },
+  {
+    "folder": "combos",
+    "path": "combos/12_no_show_bad_fit_yes/example.txt",
+    "github_url": "https://github.com/bencrane/ea_hq/blob/main/combos/12_no_show_bad_fit_yes/example.txt",
+    "raw_url": "https://raw.githubusercontent.com/bencrane/ea_hq/main/combos/12_no_show_bad_fit_yes/example.txt"
+  },
+  {
+    "folder": "combos",
+    "path": "combos/12_no_show_bad_fit_yes/template.json",
+    "github_url": "https://github.com/bencrane/ea_hq/blob/main/combos/12_no_show_bad_fit_yes/template.json",
+    "raw_url": "https://raw.githubusercontent.com/bencrane/ea_hq/main/combos/12_no_show_bad_fit_yes/template.json"
+  },
+  {
+    "folder": "combos",
+    "path": "combos/12_no_show_bad_fit_yes/transform.js",
+    "github_url": "https://github.com/bencrane/ea_hq/blob/main/combos/12_no_show_bad_fit_yes/transform.js",
+    "raw_url": "https://raw.githubusercontent.com/bencrane/ea_hq/main/combos/12_no_show_bad_fit_yes/transform.js"
+  },
+  {
+    "folder": "combos",
+    "path": "combos/13_no_show_high_priority_no/example.txt",
+    "github_url": "https://github.com/bencrane/ea_hq/blob/main/combos/13_no_show_high_priority_no/example.txt",
+    "raw_url": "https://raw.githubusercontent.com/bencrane/ea_hq/main/combos/13_no_show_high_priority_no/example.txt"
+  },
+  {
+    "folder": "combos",
+    "path": "combos/13_no_show_high_priority_no/template.json",
+    "github_url": "https://github.com/bencrane/ea_hq/blob/main/combos/13_no_show_high_priority_no/template.json",
+    "raw_url": "https://raw.githubusercontent.com/bencrane/ea_hq/main/combos/13_no_show_high_priority_no/template.json"
+  },
+  {
+    "folder": "combos",
+    "path": "combos/13_no_show_high_priority_no/transform.js",
+    "github_url": "https://github.com/bencrane/ea_hq/blob/main/combos/13_no_show_high_priority_no/transform.js",
+    "raw_url": "https://raw.githubusercontent.com/bencrane/ea_hq/main/combos/13_no_show_high_priority_no/transform.js"
+  },
+  {
+    "folder": "combos",
+    "path": "combos/14_no_show_high_priority_yes/example.txt",
+    "github_url": "https://github.com/bencrane/ea_hq/blob/main/combos/14_no_show_high_priority_yes/example.txt",
+    "raw_url": "https://raw.githubusercontent.com/bencrane/ea_hq/main/combos/14_no_show_high_priority_yes/example.txt"
+  },
+  {
+    "folder": "combos",
+    "path": "combos/14_no_show_high_priority_yes/template.json",
+    "github_url": "https://github.com/bencrane/ea_hq/blob/main/combos/14_no_show_high_priority_yes/template.json",
+    "raw_url": "https://raw.githubusercontent.com/bencrane/ea_hq/main/combos/14_no_show_high_priority_yes/template.json"
+  },
+  {
+    "folder": "combos",
+    "path": "combos/14_no_show_high_priority_yes/transform.js",
+    "github_url": "https://github.com/bencrane/ea_hq/blob/main/combos/14_no_show_high_priority_yes/transform.js",
+    "raw_url": "https://raw.githubusercontent.com/bencrane/ea_hq/main/combos/14_no_show_high_priority_yes/transform.js"
+  },
+  {
+    "folder": "combos",
+    "path": "combos/15_no_show_kill_no/example.txt",
+    "github_url": "https://github.com/bencrane/ea_hq/blob/main/combos/15_no_show_kill_no/example.txt",
+    "raw_url": "https://raw.githubusercontent.com/bencrane/ea_hq/main/combos/15_no_show_kill_no/example.txt"
+  },
+  {
+    "folder": "combos",
+    "path": "combos/15_no_show_kill_no/template.json",
+    "github_url": "https://github.com/bencrane/ea_hq/blob/main/combos/15_no_show_kill_no/template.json",
+    "raw_url": "https://raw.githubusercontent.com/bencrane/ea_hq/main/combos/15_no_show_kill_no/template.json"
+  },
+  {
+    "folder": "combos",
+    "path": "combos/15_no_show_kill_no/transform.js",
+    "github_url": "https://github.com/bencrane/ea_hq/blob/main/combos/15_no_show_kill_no/transform.js",
+    "raw_url": "https://raw.githubusercontent.com/bencrane/ea_hq/main/combos/15_no_show_kill_no/transform.js"
+  },
+  {
+    "folder": "combos",
+    "path": "combos/16_no_show_kill_yes/example.txt",
+    "github_url": "https://github.com/bencrane/ea_hq/blob/main/combos/16_no_show_kill_yes/example.txt",
+    "raw_url": "https://raw.githubusercontent.com/bencrane/ea_hq/main/combos/16_no_show_kill_yes/example.txt"
+  },
+  {
+    "folder": "combos",
+    "path": "combos/16_no_show_kill_yes/template.json",
+    "github_url": "https://github.com/bencrane/ea_hq/blob/main/combos/16_no_show_kill_yes/template.json",
+    "raw_url": "https://raw.githubusercontent.com/bencrane/ea_hq/main/combos/16_no_show_kill_yes/template.json"
+  },
+  {
+    "folder": "combos",
+    "path": "combos/16_no_show_kill_yes/transform.js",
+    "github_url": "https://github.com/bencrane/ea_hq/blob/main/combos/16_no_show_kill_yes/transform.js",
+    "raw_url": "https://raw.githubusercontent.com/bencrane/ea_hq/main/combos/16_no_show_kill_yes/transform.js"
+  },
+  {
+    "folder": "combos",
+    "path": "combos/17_no_show_low_priority_no/example.txt",
+    "github_url": "https://github.com/bencrane/ea_hq/blob/main/combos/17_no_show_low_priority_no/example.txt",
+    "raw_url": "https://raw.githubusercontent.com/bencrane/ea_hq/main/combos/17_no_show_low_priority_no/example.txt"
+  },
+  {
+    "folder": "combos",
+    "path": "combos/17_no_show_low_priority_no/template.json",
+    "github_url": "https://github.com/bencrane/ea_hq/blob/main/combos/17_no_show_low_priority_no/template.json",
+    "raw_url": "https://raw.githubusercontent.com/bencrane/ea_hq/main/combos/17_no_show_low_priority_no/template.json"
+  },
+  {
+    "folder": "combos",
+    "path": "combos/17_no_show_low_priority_no/transform.js",
+    "github_url": "https://github.com/bencrane/ea_hq/blob/main/combos/17_no_show_low_priority_no/transform.js",
+    "raw_url": "https://raw.githubusercontent.com/bencrane/ea_hq/main/combos/17_no_show_low_priority_no/transform.js"
+  },
+  {
+    "folder": "combos",
+    "path": "combos/18_no_show_low_priority_yes/example.txt",
+    "github_url": "https://github.com/bencrane/ea_hq/blob/main/combos/18_no_show_low_priority_yes/example.txt",
+    "raw_url": "https://raw.githubusercontent.com/bencrane/ea_hq/main/combos/18_no_show_low_priority_yes/example.txt"
+  },
+  {
+    "folder": "combos",
+    "path": "combos/18_no_show_low_priority_yes/template.json",
+    "github_url": "https://github.com/bencrane/ea_hq/blob/main/combos/18_no_show_low_priority_yes/template.json",
+    "raw_url": "https://raw.githubusercontent.com/bencrane/ea_hq/main/combos/18_no_show_low_priority_yes/template.json"
+  },
+  {
+    "folder": "combos",
+    "path": "combos/18_no_show_low_priority_yes/transform.js",
+    "github_url": "https://github.com/bencrane/ea_hq/blob/main/combos/18_no_show_low_priority_yes/transform.js",
+    "raw_url": "https://raw.githubusercontent.com/bencrane/ea_hq/main/combos/18_no_show_low_priority_yes/transform.js"
+  },
+  {
+    "folder": "combos",
+    "path": "combos/19_no_show_medium_priority_no/example.txt",
+    "github_url": "https://github.com/bencrane/ea_hq/blob/main/combos/19_no_show_medium_priority_no/example.txt",
+    "raw_url": "https://raw.githubusercontent.com/bencrane/ea_hq/main/combos/19_no_show_medium_priority_no/example.txt"
+  },
+  {
+    "folder": "combos",
+    "path": "combos/19_no_show_medium_priority_no/template.json",
+    "github_url": "https://github.com/bencrane/ea_hq/blob/main/combos/19_no_show_medium_priority_no/template.json",
+    "raw_url": "https://raw.githubusercontent.com/bencrane/ea_hq/main/combos/19_no_show_medium_priority_no/template.json"
+  },
+  {
+    "folder": "combos",
+    "path": "combos/19_no_show_medium_priority_no/transform.js",
+    "github_url": "https://github.com/bencrane/ea_hq/blob/main/combos/19_no_show_medium_priority_no/transform.js",
+    "raw_url": "https://raw.githubusercontent.com/bencrane/ea_hq/main/combos/19_no_show_medium_priority_no/transform.js"
+  },
+  {
+    "folder": "combos",
+    "path": "combos/20_no_show_medium_priority_yes/example.txt",
+    "github_url": "https://github.com/bencrane/ea_hq/blob/main/combos/20_no_show_medium_priority_yes/example.txt",
+    "raw_url": "https://raw.githubusercontent.com/bencrane/ea_hq/main/combos/20_no_show_medium_priority_yes/example.txt"
+  },
+  {
+    "folder": "combos",
+    "path": "combos/20_no_show_medium_priority_yes/template.json",
+    "github_url": "https://github.com/bencrane/ea_hq/blob/main/combos/20_no_show_medium_priority_yes/template.json",
+    "raw_url": "https://raw.githubusercontent.com/bencrane/ea_hq/main/combos/20_no_show_medium_priority_yes/template.json"
+  },
+  {
+    "folder": "combos",
+    "path": "combos/20_no_show_medium_priority_yes/transform.js",
+    "github_url": "https://github.com/bencrane/ea_hq/blob/main/combos/20_no_show_medium_priority_yes/transform.js",
+    "raw_url": "https://raw.githubusercontent.com/bencrane/ea_hq/main/combos/20_no_show_medium_priority_yes/transform.js"
+  },
+  {
+    "folder": "new-booking",
+    "path": "new-booking/booking-id-extraction/booking_id_extractor.md",
+    "github_url": "https://github.com/bencrane/ea_hq/blob/main/new-booking/booking-id-extraction/booking_id_extractor.md",
+    "raw_url": "https://raw.githubusercontent.com/bencrane/ea_hq/main/new-booking/booking-id-extraction/booking_id_extractor.md"
+  },
+  {
+    "folder": "new-booking",
+    "path": "new-booking/booking-id-extraction/prepare_payload.js",
+    "github_url": "https://github.com/bencrane/ea_hq/blob/main/new-booking/booking-id-extraction/prepare_payload.js",
+    "raw_url": "https://raw.githubusercontent.com/bencrane/ea_hq/main/new-booking/booking-id-extraction/prepare_payload.js"
+  },
+  {
+    "folder": "new-booking",
+    "path": "new-booking/booking-id-extraction/prompt_config.json",
+    "github_url": "https://github.com/bencrane/ea_hq/blob/main/new-booking/booking-id-extraction/prompt_config.json",
+    "raw_url": "https://raw.githubusercontent.com/bencrane/ea_hq/main/new-booking/booking-id-extraction/prompt_config.json"
+  },
+  {
+    "folder": "rescheduled-booking",
+    "path": "rescheduled-booking/booking-id-extraction/booking_id_and_reschedule_id_extractor.md",
+    "github_url": "https://github.com/bencrane/ea_hq/blob/main/rescheduled-booking/booking-id-extraction/booking_id_and_reschedule_id_extractor.md",
+    "raw_url": "https://raw.githubusercontent.com/bencrane/ea_hq/main/rescheduled-booking/booking-id-extraction/booking_id_and_reschedule_id_extractor.md"
+  },
+  {
+    "folder": "rescheduled-booking",
+    "path": "rescheduled-booking/booking-id-extraction/prepare_payload.js",
+    "github_url": "https://github.com/bencrane/ea_hq/blob/main/rescheduled-booking/booking-id-extraction/prepare_payload.js",
+    "raw_url": "https://raw.githubusercontent.com/bencrane/ea_hq/main/rescheduled-booking/booking-id-extraction/prepare_payload.js"
+  },
+  {
+    "folder": "rescheduled-booking",
+    "path": "rescheduled-booking/booking-id-extraction/prompt_config.json",
+    "github_url": "https://github.com/bencrane/ea_hq/blob/main/rescheduled-booking/booking-id-extraction/prompt_config.json",
+    "raw_url": "https://raw.githubusercontent.com/bencrane/ea_hq/main/rescheduled-booking/booking-id-extraction/prompt_config.json"
+  },
+  {
+    "folder": "templates",
+    "path": "templates/.DS_Store",
+    "github_url": "https://github.com/bencrane/ea_hq/blob/main/templates/.DS_Store",
+    "raw_url": "https://raw.githubusercontent.com/bencrane/ea_hq/main/templates/.DS_Store"
+  },
+  {
+    "folder": "templates",
+    "path": "templates/proposal_flow/example.txt",
+    "github_url": "https://github.com/bencrane/ea_hq/blob/main/templates/proposal_flow/example.txt",
+    "raw_url": "https://raw.githubusercontent.com/bencrane/ea_hq/main/templates/proposal_flow/example.txt"
+  },
+  {
+    "folder": "templates",
+    "path": "templates/proposal_flow/template.json",
+    "github_url": "https://github.com/bencrane/ea_hq/blob/main/templates/proposal_flow/template.json",
+    "raw_url": "https://raw.githubusercontent.com/bencrane/ea_hq/main/templates/proposal_flow/template.json"
+  },
+  {
+    "folder": "templates",
+    "path": "templates/proposal_flow/transform.js",
+    "github_url": "https://github.com/bencrane/ea_hq/blob/main/templates/proposal_flow/transform.js",
+    "raw_url": "https://raw.githubusercontent.com/bencrane/ea_hq/main/templates/proposal_flow/transform.js"
+  }
+]
