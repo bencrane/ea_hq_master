@@ -6,6 +6,18 @@
     "raw_url": "https://raw.githubusercontent.com/bencrane/ea_hq/main/.DS_Store"
   },
   {
+    "folder": ".github",
+    "path": ".github/workflows/main.yml",
+    "github_url": "https://github.com/bencrane/ea_hq/blob/main/.github/workflows/main.yml",
+    "raw_url": "https://raw.githubusercontent.com/bencrane/ea_hq/main/.github/workflows/main.yml"
+  },
+  {
+    "folder": ".",
+    "path": ".gitignore",
+    "github_url": "https://github.com/bencrane/ea_hq/blob/main/.gitignore",
+    "raw_url": "https://raw.githubusercontent.com/bencrane/ea_hq/main/.gitignore"
+  },
+  {
     "folder": ".",
     "path": "README.md",
     "github_url": "https://github.com/bencrane/ea_hq/blob/main/README.md",
@@ -64,6 +76,24 @@
     "path": "canceled-booking/booking-payload-cleaning/prompt_config.json",
     "github_url": "https://github.com/bencrane/ea_hq/blob/main/canceled-booking/booking-payload-cleaning/prompt_config.json",
     "raw_url": "https://raw.githubusercontent.com/bencrane/ea_hq/main/canceled-booking/booking-payload-cleaning/prompt_config.json"
+  },
+  {
+    "folder": "canceled-booking",
+    "path": "canceled-booking/email-extraction/prepare_payload.json",
+    "github_url": "https://github.com/bencrane/ea_hq/blob/main/canceled-booking/email-extraction/prepare_payload.json",
+    "raw_url": "https://raw.githubusercontent.com/bencrane/ea_hq/main/canceled-booking/email-extraction/prepare_payload.json"
+  },
+  {
+    "folder": "canceled-booking",
+    "path": "canceled-booking/email-extraction/prompt_config.json",
+    "github_url": "https://github.com/bencrane/ea_hq/blob/main/canceled-booking/email-extraction/prompt_config.json",
+    "raw_url": "https://raw.githubusercontent.com/bencrane/ea_hq/main/canceled-booking/email-extraction/prompt_config.json"
+  },
+  {
+    "folder": "canceled-booking",
+    "path": "canceled-booking/email-extraction/prompt_instructions.md",
+    "github_url": "https://github.com/bencrane/ea_hq/blob/main/canceled-booking/email-extraction/prompt_instructions.md",
+    "raw_url": "https://raw.githubusercontent.com/bencrane/ea_hq/main/canceled-booking/email-extraction/prompt_instructions.md"
   },
   {
     "folder": "combos",
@@ -432,12 +462,6 @@
     "raw_url": "https://raw.githubusercontent.com/bencrane/ea_hq/main/mapping/master_github_mapping.json"
   },
   {
-    "folder": ".",
-    "path": "master_github_url_mapping_file",
-    "github_url": "https://github.com/bencrane/ea_hq/blob/main/master_github_url_mapping_file",
-    "raw_url": "https://raw.githubusercontent.com/bencrane/ea_hq/main/master_github_url_mapping_file"
-  },
-  {
     "folder": "new-booking",
     "path": "new-booking/booking-id-extraction/booking_id_extractor.md",
     "github_url": "https://github.com/bencrane/ea_hq/blob/main/new-booking/booking-id-extraction/booking_id_extractor.md",
@@ -474,6 +498,30 @@
     "raw_url": "https://raw.githubusercontent.com/bencrane/ea_hq/main/new-booking/booking-payload-cleaning/prompt_config.json"
   },
   {
+    "folder": "new-booking",
+    "path": "new-booking/email-extraction/prepare_payload.json",
+    "github_url": "https://github.com/bencrane/ea_hq/blob/main/new-booking/email-extraction/prepare_payload.json",
+    "raw_url": "https://raw.githubusercontent.com/bencrane/ea_hq/main/new-booking/email-extraction/prepare_payload.json"
+  },
+  {
+    "folder": "new-booking",
+    "path": "new-booking/email-extraction/prompt_config.json",
+    "github_url": "https://github.com/bencrane/ea_hq/blob/main/new-booking/email-extraction/prompt_config.json",
+    "raw_url": "https://raw.githubusercontent.com/bencrane/ea_hq/main/new-booking/email-extraction/prompt_config.json"
+  },
+  {
+    "folder": "new-booking",
+    "path": "new-booking/email-extraction/prompt_instructions.md",
+    "github_url": "https://github.com/bencrane/ea_hq/blob/main/new-booking/email-extraction/prompt_instructions.md",
+    "raw_url": "https://raw.githubusercontent.com/bencrane/ea_hq/main/new-booking/email-extraction/prompt_instructions.md"
+  },
+  {
+    "folder": "rescheduled-booking",
+    "path": "rescheduled-booking/archive",
+    "github_url": "https://github.com/bencrane/ea_hq/blob/main/rescheduled-booking/archive",
+    "raw_url": "https://raw.githubusercontent.com/bencrane/ea_hq/main/rescheduled-booking/archive"
+  },
+  {
     "folder": "rescheduled-booking",
     "path": "rescheduled-booking/booking-id-extraction/booking_id_and_reschedule_id_extractor.md",
     "github_url": "https://github.com/bencrane/ea_hq/blob/main/rescheduled-booking/booking-id-extraction/booking_id_and_reschedule_id_extractor.md",
@@ -508,6 +556,24 @@
     "path": "rescheduled-booking/booking-payload-cleaning/prompt_config.json",
     "github_url": "https://github.com/bencrane/ea_hq/blob/main/rescheduled-booking/booking-payload-cleaning/prompt_config.json",
     "raw_url": "https://raw.githubusercontent.com/bencrane/ea_hq/main/rescheduled-booking/booking-payload-cleaning/prompt_config.json"
+  },
+  {
+    "folder": "rescheduled-booking",
+    "path": "rescheduled-booking/email-extraction/prepare_payload.json",
+    "github_url": "https://github.com/bencrane/ea_hq/blob/main/rescheduled-booking/email-extraction/prepare_payload.json",
+    "raw_url": "https://raw.githubusercontent.com/bencrane/ea_hq/main/rescheduled-booking/email-extraction/prepare_payload.json"
+  },
+  {
+    "folder": "rescheduled-booking",
+    "path": "rescheduled-booking/email-extraction/prompt_config.json",
+    "github_url": "https://github.com/bencrane/ea_hq/blob/main/rescheduled-booking/email-extraction/prompt_config.json",
+    "raw_url": "https://raw.githubusercontent.com/bencrane/ea_hq/main/rescheduled-booking/email-extraction/prompt_config.json"
+  },
+  {
+    "folder": "rescheduled-booking",
+    "path": "rescheduled-booking/email-extraction/prompt_instructions.md",
+    "github_url": "https://github.com/bencrane/ea_hq/blob/main/rescheduled-booking/email-extraction/prompt_instructions.md",
+    "raw_url": "https://raw.githubusercontent.com/bencrane/ea_hq/main/rescheduled-booking/email-extraction/prompt_instructions.md"
   },
   {
     "folder": "templates",
