@@ -517,9 +517,9 @@
   },
   {
     "folder": "new-booking",
-    "path": "new-booking/db-insertion-code/leads_table_updater",
-    "github_url": "https://github.com/bencrane/ea_hq/blob/main/new-booking/db-insertion-code/leads_table_updater",
-    "raw_url": "https://raw.githubusercontent.com/bencrane/ea_hq/main/new-booking/db-insertion-code/leads_table_updater"
+    "path": "new-booking/db-insertion-code/leads_table_updater.js",
+    "github_url": "https://github.com/bencrane/ea_hq/blob/main/new-booking/db-insertion-code/leads_table_updater.js",
+    "raw_url": "https://raw.githubusercontent.com/bencrane/ea_hq/main/new-booking/db-insertion-code/leads_table_updater.js"
   },
   {
     "folder": "new-booking",
