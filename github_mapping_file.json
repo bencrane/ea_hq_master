@@ -79,9 +79,21 @@
   },
   {
     "folder": "canceled-booking",
-    "path": "canceled-booking/deal-table-insertion/deal_table_updater.js",
-    "github_url": "https://github.com/bencrane/ea_hq/blob/main/canceled-booking/deal-table-insertion/deal_table_updater.js",
-    "raw_url": "https://raw.githubusercontent.com/bencrane/ea_hq/main/canceled-booking/deal-table-insertion/deal_table_updater.js"
+    "path": "canceled-booking/db-insertion-code/bookings_table_updater.js",
+    "github_url": "https://github.com/bencrane/ea_hq/blob/main/canceled-booking/db-insertion-code/bookings_table_updater.js",
+    "raw_url": "https://raw.githubusercontent.com/bencrane/ea_hq/main/canceled-booking/db-insertion-code/bookings_table_updater.js"
+  },
+  {
+    "folder": "canceled-booking",
+    "path": "canceled-booking/db-insertion-code/deals_table_updater.js",
+    "github_url": "https://github.com/bencrane/ea_hq/blob/main/canceled-booking/db-insertion-code/deals_table_updater.js",
+    "raw_url": "https://raw.githubusercontent.com/bencrane/ea_hq/main/canceled-booking/db-insertion-code/deals_table_updater.js"
+  },
+  {
+    "folder": "canceled-booking",
+    "path": "canceled-booking/db-insertion-code/leads_table_updater.js",
+    "github_url": "https://github.com/bencrane/ea_hq/blob/main/canceled-booking/db-insertion-code/leads_table_updater.js",
+    "raw_url": "https://raw.githubusercontent.com/bencrane/ea_hq/main/canceled-booking/db-insertion-code/leads_table_updater.js"
   },
   {
     "folder": "canceled-booking",
@@ -493,9 +505,21 @@
   },
   {
     "folder": "new-booking",
-    "path": "new-booking/deal-table-insertion/deal_table_updater.js",
-    "github_url": "https://github.com/bencrane/ea_hq/blob/main/new-booking/deal-table-insertion/deal_table_updater.js",
-    "raw_url": "https://raw.githubusercontent.com/bencrane/ea_hq/main/new-booking/deal-table-insertion/deal_table_updater.js"
+    "path": "new-booking/db-insertion-code/bookings_table_updater.js",
+    "github_url": "https://github.com/bencrane/ea_hq/blob/main/new-booking/db-insertion-code/bookings_table_updater.js",
+    "raw_url": "https://raw.githubusercontent.com/bencrane/ea_hq/main/new-booking/db-insertion-code/bookings_table_updater.js"
+  },
+  {
+    "folder": "new-booking",
+    "path": "new-booking/db-insertion-code/deals_table_updater.js",
+    "github_url": "https://github.com/bencrane/ea_hq/blob/main/new-booking/db-insertion-code/deals_table_updater.js",
+    "raw_url": "https://raw.githubusercontent.com/bencrane/ea_hq/main/new-booking/db-insertion-code/deals_table_updater.js"
+  },
+  {
+    "folder": "new-booking",
+    "path": "new-booking/db-insertion-code/leads_table_updater",
+    "github_url": "https://github.com/bencrane/ea_hq/blob/main/new-booking/db-insertion-code/leads_table_updater",
+    "raw_url": "https://raw.githubusercontent.com/bencrane/ea_hq/main/new-booking/db-insertion-code/leads_table_updater"
   },
   {
     "folder": "new-booking",
@@ -559,9 +583,21 @@
   },
   {
     "folder": "rescheduled-booking",
-    "path": "rescheduled-booking/deal-table-insertion/deal_table_updater.js",
-    "github_url": "https://github.com/bencrane/ea_hq/blob/main/rescheduled-booking/deal-table-insertion/deal_table_updater.js",
-    "raw_url": "https://raw.githubusercontent.com/bencrane/ea_hq/main/rescheduled-booking/deal-table-insertion/deal_table_updater.js"
+    "path": "rescheduled-booking/db-insertion-code/bookings_table_updater.js",
+    "github_url": "https://github.com/bencrane/ea_hq/blob/main/rescheduled-booking/db-insertion-code/bookings_table_updater.js",
+    "raw_url": "https://raw.githubusercontent.com/bencrane/ea_hq/main/rescheduled-booking/db-insertion-code/bookings_table_updater.js"
+  },
+  {
+    "folder": "rescheduled-booking",
+    "path": "rescheduled-booking/db-insertion-code/deals_table_updater.js",
+    "github_url": "https://github.com/bencrane/ea_hq/blob/main/rescheduled-booking/db-insertion-code/deals_table_updater.js",
+    "raw_url": "https://raw.githubusercontent.com/bencrane/ea_hq/main/rescheduled-booking/db-insertion-code/deals_table_updater.js"
+  },
+  {
+    "folder": "rescheduled-booking",
+    "path": "rescheduled-booking/db-insertion-code/leads_table_updater.js",
+    "github_url": "https://github.com/bencrane/ea_hq/blob/main/rescheduled-booking/db-insertion-code/leads_table_updater.js",
+    "raw_url": "https://raw.githubusercontent.com/bencrane/ea_hq/main/rescheduled-booking/db-insertion-code/leads_table_updater.js"
   },
   {
     "folder": "rescheduled-booking",
