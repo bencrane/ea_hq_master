@@ -79,9 +79,9 @@
   },
   {
     "folder": "canceled-booking",
-    "path": "canceled-booking/email-extraction/prepare_payload.json",
-    "github_url": "https://github.com/bencrane/ea_hq/blob/main/canceled-booking/email-extraction/prepare_payload.json",
-    "raw_url": "https://raw.githubusercontent.com/bencrane/ea_hq/main/canceled-booking/email-extraction/prepare_payload.json"
+    "path": "canceled-booking/email-extraction/prepare_payload.js",
+    "github_url": "https://github.com/bencrane/ea_hq/blob/main/canceled-booking/email-extraction/prepare_payload.js",
+    "raw_url": "https://raw.githubusercontent.com/bencrane/ea_hq/main/canceled-booking/email-extraction/prepare_payload.js"
   },
   {
     "folder": "canceled-booking",
@@ -487,9 +487,9 @@
   },
   {
     "folder": "new-booking",
-    "path": "new-booking/email-extraction/prepare_payload.json",
-    "github_url": "https://github.com/bencrane/ea_hq/blob/main/new-booking/email-extraction/prepare_payload.json",
-    "raw_url": "https://raw.githubusercontent.com/bencrane/ea_hq/main/new-booking/email-extraction/prepare_payload.json"
+    "path": "new-booking/email-extraction/prepare_payload.js",
+    "github_url": "https://github.com/bencrane/ea_hq/blob/main/new-booking/email-extraction/prepare_payload.js",
+    "raw_url": "https://raw.githubusercontent.com/bencrane/ea_hq/main/new-booking/email-extraction/prepare_payload.js"
   },
   {
     "folder": "new-booking",
@@ -547,9 +547,9 @@
   },
   {
     "folder": "rescheduled-booking",
-    "path": "rescheduled-booking/email-extraction/prepare_payload.json",
-    "github_url": "https://github.com/bencrane/ea_hq/blob/main/rescheduled-booking/email-extraction/prepare_payload.json",
-    "raw_url": "https://raw.githubusercontent.com/bencrane/ea_hq/main/rescheduled-booking/email-extraction/prepare_payload.json"
+    "path": "rescheduled-booking/email-extraction/prepare_payload.js",
+    "github_url": "https://github.com/bencrane/ea_hq/blob/main/rescheduled-booking/email-extraction/prepare_payload.js",
+    "raw_url": "https://raw.githubusercontent.com/bencrane/ea_hq/main/rescheduled-booking/email-extraction/prepare_payload.js"
   },
   {
     "folder": "rescheduled-booking",
